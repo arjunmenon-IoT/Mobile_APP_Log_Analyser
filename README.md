@@ -1,6 +1,6 @@
-# Mobile_APP_Log_Analyser
+# Mobile APP Log Analyser -Automation of QA 
 QA Automation using Python3 ans GUI tools
-As the part of intrenship in Actility SA -Paris i was assigned to be test the find Bugs in Abeeway Mobile APP. This process is automated after carefull analysis of work flow. 
+As the part of intrenship in Actility SA -Paris i was assigned to test 13 features of the Mobile Application. The input to the this application is the Android Log file  that generate after tetsing of each features in Mobile APP. This python App checks for  keywords and output the result.This process is automated after carefull analysis of work flow. 
  
 
 #Demo Video 
