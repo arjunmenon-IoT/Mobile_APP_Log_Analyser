@@ -1,0 +1,4 @@
+STEP 1 - API Call request the position of the with downlink tracker command
+FAILURE - API call to request tracker position failed after 3 tries
+SUCCESS - Wait for push notification from the backend or position update from websocket
+FAILURE - 20 Mints timer exceeded .No POD Received
